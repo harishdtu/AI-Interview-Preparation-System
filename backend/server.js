@@ -45,6 +45,10 @@ app.use((req, res, next) => {
 //serve uploads folder
 app.use("/uploads", express.static(path.join(__dirname, "uploads"),{}));
 
+app.get("/", (req, res) => {
+  res.send("AI Interview Backend is Running 🚀");
+});
+
 //start the server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
