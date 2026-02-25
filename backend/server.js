@@ -15,7 +15,7 @@ const app = express();
 app.set("etag", false);
 app.use(
     cors({
-    origin: "*",
+    origin: "https://ai-interview-preparation-system.vercel.app",
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"]
 }));
