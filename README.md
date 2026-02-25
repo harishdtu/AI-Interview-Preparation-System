@@ -41,7 +41,7 @@ Users can create role-specific sessions, generate technical questions, view stru
 Frontend:
 👉 https:[//your-vercel-app.vercel.app](https://ai-interview-preparation-system.vercel.app/)
 <img width="1920" height="954" alt="Screenshot (732)" src="https://github.com/user-attachments/assets/9007cae5-28a6-4fc1-a9fd-b35c15167c12" />
-<img width="1920" height="954" alt="Screenshot (732)" src="https://github.com/user-attachments/assets/9007cae5-28a6-4fc1-a9fd-b35c15167c12" />
+
 
 
 
