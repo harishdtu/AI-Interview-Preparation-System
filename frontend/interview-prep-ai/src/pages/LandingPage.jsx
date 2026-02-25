@@ -7,7 +7,7 @@ import {LuSparkles} from "react-icons/lu";
 import Modal from '../components/Modal';
 import SignUp from './Auth/SignUp';
 import Login from './Auth/Login';
-import ProfileInfoCard from "../components/Cards/profileInfoCard";
+import ProfileInfoCard from "../components/Cards/ProfileInfoCard";
 const LandingPage = () => {
   const {user} = useContext(UserContext);
   const navigate = useNavigate();
